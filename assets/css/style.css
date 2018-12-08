@@ -1,0 +1,48 @@
+body {
+    background-image: url("../images/movie_background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+.container {
+    position: relative;
+    top: 110px;
+    border: 3px solid black;
+    height: 375px;
+    width: 600px;
+    background: tan
+}
+
+
+h1 {
+    text-align: center;
+}
+
+.question {
+    position: relative;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.startBtn {
+    position: relative;
+    margin-top: 80px;
+    left: 240px;
+}
+
+.btn-choice {
+    position: relative;
+    top: 10px;
+    left: 50px;
+    width: 210px;
+    height: 80px;
+    /* padding: 20px; */
+    margin: 10px;
+}
+
+#timeleft{
+    margin-top: 40px;
+    text-align: center;
+}
+
